@@ -3,3 +3,5 @@ The goal is to detect the presence of foul language from a sample of tweets, fil
 
 The next task at hand is to keep track of the topics identified by users with the hashtag symbol ‘#’ and to count the frequency of the hashtags found and provide a ranking of N top hashtags based on their frequency, where N is a parameter to the function.
 
+### WARNING: Some of the tweets in the sample file actually do contain swear words.
+
